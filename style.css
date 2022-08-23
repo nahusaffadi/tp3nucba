@@ -41,12 +41,15 @@ header{
 }
 
 main{
-    background-color: rgb(116, 118, 223);
     display: flex;
     color: white;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: center
+}
+
+body{
+    background-color:rgb(116, 118, 223);
 }
 
 #portada{
