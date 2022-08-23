@@ -66,6 +66,7 @@ main{
     width: 400px;
     height: 300px;
     font-family: 'Exo 2', sans-serif;
+    color: black;
 }
 
 .link{
@@ -119,5 +120,11 @@ img{
     align-items: center;
     width: 500px;
     height: 210px;
-    font-family: 'Exo 2', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: black;
+}
+
+.rider{
+    width: 30px;
+    height: 30px;
 }
